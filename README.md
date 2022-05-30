@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Greeting -->
+# Hey there! :wave:
 
-<!--
-**mshakour/mshakour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Introduction -->
+I'm Mohamed Abdel-Shakour! I'm kick starting my journey as **ML/AI Engineer**, looking to solve **real-world problems**. I'm passionate about creating machine learning models to solve real problem and tools to help people, and **building a community**.
+<br>
 
-Here are some ideas to get you started:
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-mshakour-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mshakour)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=mshakour&style=flat)
+[![Github](https://img.shields.io/badge/-mshakour-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/mshakour)
+
+
+### 💼  Things that I'm currently working on: 
+* Learning advanced Machine Learning algorithms
+* Learning fundamentals of computer vision.
+* Looking forward to work on my first ML/AI job.
+
+
+----
+
+Last Edited on: 30/5/2022

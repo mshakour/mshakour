@@ -16,10 +16,10 @@ I'm Mohamed Abdel-Shakour! I'm kick starting my journey as **ML/AI Engineer**, l
 
 ### 💼  Things that I'm currently working on: 
 * Learning advanced Machine Learning algorithms
-* Learning fundamentals of computer vision.
-* Looking forward to work on my first ML/AI job.
+* Implementing ML techniques in architecture
+
 
 
 ----
 
-Last Edited on: 30/5/2022
+Last Edited on: 22/10/2022
